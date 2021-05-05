@@ -25,7 +25,6 @@ where:
   
 ## Expample
 
-_-a (--action)_ is **encode**
 
 ```bash
 $ node my_caesar_cli -a encode -s 7 -i "./input.txt" -o "./output.txt"
