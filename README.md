@@ -1,4 +1,4 @@
-### My solution for tusk1 Caesar cipher Cli
+### My solution for task1 Caesar cipher Cli
 
 ## Instalation
 
