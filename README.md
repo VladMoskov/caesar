@@ -19,7 +19,7 @@ where:
   
   
   
-## Expamples
+## Expample
 
 _-a (--action)_ is **encode**
 
