@@ -1,6 +1,6 @@
-###My solution for tusk1 Caesar cipher Cli
+### My solution for tusk1 Caesar cipher Cli
 
-##Instalation
+## Instalation
 
 use `git clone https://github.com/VladMoskov/caesar.git` to download the app
 
@@ -8,7 +8,7 @@ use 'npm install' to install dependencies`
 
 
 
-##Usage
+## Usage
 
 To run cipher use `node my_caesar_cli -s <number> -a <string> -i <string -o <string>`, 
 where: 
@@ -19,7 +19,7 @@ where:
   
   
   
-##Expamples
+## Expamples
 
 _-a (--action)_ is **encode**
 
