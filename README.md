@@ -4,7 +4,7 @@
 
 use `git clone https://github.com/VladMoskov/caesar.git` to download the app
 
-use 'npm install' to install dependencies` 
+use `npm install` to install dependencies` 
 
 
 
