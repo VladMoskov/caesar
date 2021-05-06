@@ -35,3 +35,19 @@ $ node my_caesar_cli -a encode -s 7 -i "./input.txt" -o "./output.txt"
 > output.txt
 > `Aopz pz zljyla. Tlzzhnl hivba "_" zftivs!`
 
+
+## Cross-check myself
+  1. 10/10
+  2. 10/10
+  3. 10/10
+  4. 10/10
+  5. 10/10
+  6. 10/10
+  7. 10/10
+  8. 10/10
+  9. 10/10
+  10. 10/10
+  11. 10/10
+  12. 10/10
+  
+  120/120
